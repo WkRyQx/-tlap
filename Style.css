@@ -1,0 +1,56 @@
+body{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    margin-right: auto;
+    margin-left: auto;
+}
+.fő{
+    font-weight: bold;
+    font-size: 30px;
+    list-style: none;
+    padding-bottom: 10px;
+}
+.étel{
+    width: 300px;
+    height: 150px;
+    float: right;
+}
+#vége{   
+    text-align: end;
+}
+ul{
+    float: left;
+}
+h2, h1{
+   text-align: center;
+}
+.menu {
+    width: 300px;
+    height: 150px;
+    float: left;
+}
+hr{
+    border-bottom: 2px solid red;
+}
+#ár{
+    font-weight: bold;
+    font-size: medium;
+}
+.nap td:last-child{
+    padding-left: 250px;
+}
+#menuk a:first-child{
+    text-align: start;
+    padding-left: 10px;
+}
+#menuk a:nth-child(2){
+    text-align: center;
+    padding-left: 250px;
+}
+#menuk a:last-child{
+    text-align: end;
+    padding-left: 250px;
+}
+
+
